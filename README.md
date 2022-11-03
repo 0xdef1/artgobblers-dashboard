@@ -2,12 +2,12 @@
 
 To run, modify App.vue to add your Inura key:
 
-  const web3 = new Web3(`https://mainnet.infura.io/v3/INFURA_KEY_HERE`)
+    const web3 = new Web3(`https://mainnet.infura.io/v3/INFURA_KEY_HERE`)
   
 Then
 
-  npm install
-  npm run dev
+    npm install
+    npm run dev
 
 # Vue 3 + TypeScript + Vite
 
